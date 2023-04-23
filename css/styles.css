@@ -1,0 +1,12 @@
+body {
+    margin: 10px
+}
+
+.product {
+
+}
+
+a[href^="https"][href*="google"][href$=".com"] {
+    color: orange
+
+}
